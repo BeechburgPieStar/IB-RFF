@@ -1,0 +1,149 @@
+Train receivers: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 24, 25, 26, 27, 28, 29, 30, 31]
+Test receivers:  [16, 17, 18, 19, 20, 21, 22, 23]
+Train Epoch: 1 	Loss: 0.474872, Accuracy: 30267/32667 (92.65%), Avg HSIC Data: 61.344045
+
+Validation set: Loss: 0.2570, Accuracy: 13041/14001 (93.14%)
+
+Validation loss improved from inf to 0.257041, saving model.
+------------------------------------------------
+Train Epoch: 2 	Loss: 0.475922, Accuracy: 30276/32667 (92.68%), Avg HSIC Data: 61.198900
+
+Validation set: Loss: 0.2500, Accuracy: 13037/14001 (93.11%)
+
+Validation loss improved from 0.257041 to 0.250007, saving model.
+------------------------------------------------
+Train Epoch: 3 	Loss: 0.474820, Accuracy: 30227/32667 (92.53%), Avg HSIC Data: 61.111460
+
+Validation set: Loss: 0.2541, Accuracy: 13051/14001 (93.21%)
+
+No improvement in validation loss for 1 epoch(s).
+------------------------------------------------
+Train Epoch: 4 	Loss: 0.469726, Accuracy: 30353/32667 (92.92%), Avg HSIC Data: 61.017246
+
+Validation set: Loss: 0.2500, Accuracy: 13064/14001 (93.31%)
+
+Validation loss improved from 0.250007 to 0.249954, saving model.
+------------------------------------------------
+Train Epoch: 5 	Loss: 0.471985, Accuracy: 30281/32667 (92.70%), Avg HSIC Data: 60.878298
+
+Validation set: Loss: 0.2411, Accuracy: 13056/14001 (93.25%)
+
+Validation loss improved from 0.249954 to 0.241097, saving model.
+------------------------------------------------
+Train Epoch: 6 	Loss: 0.467329, Accuracy: 30343/32667 (92.89%), Avg HSIC Data: 60.787055
+
+Validation set: Loss: 0.2469, Accuracy: 13060/14001 (93.28%)
+
+No improvement in validation loss for 1 epoch(s).
+------------------------------------------------
+Train Epoch: 7 	Loss: 0.468380, Accuracy: 30311/32667 (92.79%), Avg HSIC Data: 60.601732
+
+Validation set: Loss: 0.2409, Accuracy: 13051/14001 (93.21%)
+
+Validation loss improved from 0.241097 to 0.240904, saving model.
+------------------------------------------------
+Train Epoch: 8 	Loss: 0.463410, Accuracy: 30327/32667 (92.84%), Avg HSIC Data: 60.455624
+
+Validation set: Loss: 0.2420, Accuracy: 13066/14001 (93.32%)
+
+No improvement in validation loss for 1 epoch(s).
+------------------------------------------------
+Train Epoch: 9 	Loss: 0.463094, Accuracy: 30349/32667 (92.90%), Avg HSIC Data: 60.309389
+
+Validation set: Loss: 0.2407, Accuracy: 13049/14001 (93.20%)
+
+Validation loss improved from 0.240904 to 0.240674, saving model.
+------------------------------------------------
+Train Epoch: 10 	Loss: 0.461002, Accuracy: 30394/32667 (93.04%), Avg HSIC Data: 60.131585
+
+Validation set: Loss: 0.2443, Accuracy: 13057/14001 (93.26%)
+
+No improvement in validation loss for 1 epoch(s).
+------------------------------------------------
+Train Epoch: 11 	Loss: 0.461457, Accuracy: 30385/32667 (93.01%), Avg HSIC Data: 59.907476
+
+Validation set: Loss: 0.2435, Accuracy: 13062/14001 (93.29%)
+
+No improvement in validation loss for 2 epoch(s).
+------------------------------------------------
+Train Epoch: 12 	Loss: 0.458909, Accuracy: 30376/32667 (92.99%), Avg HSIC Data: 59.725774
+
+Validation set: Loss: 0.2355, Accuracy: 13061/14001 (93.29%)
+
+Validation loss improved from 0.240674 to 0.235459, saving model.
+------------------------------------------------
+Train Epoch: 13 	Loss: 0.453911, Accuracy: 30402/32667 (93.07%), Avg HSIC Data: 59.556601
+
+Validation set: Loss: 0.2355, Accuracy: 13067/14001 (93.33%)
+
+No improvement in validation loss for 1 epoch(s).
+------------------------------------------------
+Train Epoch: 14 	Loss: 0.458520, Accuracy: 30402/32667 (93.07%), Avg HSIC Data: 59.297538
+
+Validation set: Loss: 0.2322, Accuracy: 13091/14001 (93.50%)
+
+Validation loss improved from 0.235459 to 0.232206, saving model.
+------------------------------------------------
+Train Epoch: 15 	Loss: 0.454407, Accuracy: 30380/32667 (93.00%), Avg HSIC Data: 59.285039
+
+Validation set: Loss: 0.2373, Accuracy: 13066/14001 (93.32%)
+
+No improvement in validation loss for 1 epoch(s).
+------------------------------------------------
+Train Epoch: 16 	Loss: 0.453130, Accuracy: 30408/32667 (93.08%), Avg HSIC Data: 59.154734
+
+Validation set: Loss: 0.2437, Accuracy: 13061/14001 (93.29%)
+
+No improvement in validation loss for 2 epoch(s).
+------------------------------------------------
+Train Epoch: 17 	Loss: 0.449021, Accuracy: 30409/32667 (93.09%), Avg HSIC Data: 59.089757
+
+Validation set: Loss: 0.2398, Accuracy: 13085/14001 (93.46%)
+
+No improvement in validation loss for 3 epoch(s).
+------------------------------------------------
+Train Epoch: 18 	Loss: 0.449778, Accuracy: 30432/32667 (93.16%), Avg HSIC Data: 58.995958
+
+Validation set: Loss: 0.2357, Accuracy: 13074/14001 (93.38%)
+
+No improvement in validation loss for 4 epoch(s).
+------------------------------------------------
+Train Epoch: 19 	Loss: 0.446782, Accuracy: 30451/32667 (93.22%), Avg HSIC Data: 58.862560
+
+Validation set: Loss: 0.2381, Accuracy: 13074/14001 (93.38%)
+
+No improvement in validation loss for 5 epoch(s).
+------------------------------------------------
+Train Epoch: 20 	Loss: 0.446495, Accuracy: 30440/32667 (93.18%), Avg HSIC Data: 58.730155
+
+Validation set: Loss: 0.2331, Accuracy: 13088/14001 (93.48%)
+
+Epoch 00020: reducing learning rate of group 0 to 1.0000e-04.
+No improvement in validation loss for 6 epoch(s).
+------------------------------------------------
+Train Epoch: 21 	Loss: 0.437871, Accuracy: 30501/32667 (93.37%), Avg HSIC Data: 58.729302
+
+Validation set: Loss: 0.2358, Accuracy: 13096/14001 (93.54%)
+
+No improvement in validation loss for 7 epoch(s).
+------------------------------------------------
+Train Epoch: 22 	Loss: 0.435514, Accuracy: 30566/32667 (93.57%), Avg HSIC Data: 58.695970
+
+Validation set: Loss: 0.2351, Accuracy: 13098/14001 (93.55%)
+
+No improvement in validation loss for 8 epoch(s).
+------------------------------------------------
+Train Epoch: 23 	Loss: 0.433697, Accuracy: 30581/32667 (93.61%), Avg HSIC Data: 58.695786
+
+Validation set: Loss: 0.2358, Accuracy: 13096/14001 (93.54%)
+
+No improvement in validation loss for 9 epoch(s).
+------------------------------------------------
+Train Epoch: 24 	Loss: 0.433144, Accuracy: 30605/32667 (93.69%), Avg HSIC Data: 58.719539
+
+Validation set: Loss: 0.2346, Accuracy: 13091/14001 (93.50%)
+
+No improvement in validation loss for 10 epoch(s).
+Early stopping triggered at epoch 24.
+------------------CR Testing------------------
+Test Accuracy: 0.9303
