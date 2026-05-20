@@ -1,4 +1,4 @@
-#Information Bottleneck-Driven Cross-Receiver RF Fingerprinting for Physical-Layer Security**
+# Information Bottleneck-Driven Cross-Receiver RF Fingerprinting for Physical-Layer Security**
 
 ## Overview
 
